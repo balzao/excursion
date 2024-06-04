@@ -1,1 +1,38 @@
- 
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
+ video {
+    padding: 50px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+.personal {
+    font-weight: normal;
+    font-size: 42px;
+}
+
+.excursion {
+    font-size: 21px;
+    color: gray;
+}
+
+.hidden {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.telefono {
+    padding: 40px;
+}
